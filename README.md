@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <div align="center" width="80">
 
-<img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" alt="Welcome!" width="300"/>
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="Welcome!" width="300"/>
 
 </div>
