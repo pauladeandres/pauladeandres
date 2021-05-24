@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **pauladeandres/pauladeandres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" width="50">
+<div align="center" width="80">
 
 <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" alt="Welcome!" width="300"/>
 
